@@ -85,4 +85,4 @@ Here is a snapshot of the data used in this project:
 
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](file-i5k43k0ilITFuKO6tMyaLAsh)
+![Dashboard Screenshot](https://github.com/Ndifreke000/airbnb_tableau/blob/main/Dashboard%201.png)
